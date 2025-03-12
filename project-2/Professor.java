@@ -1,3 +1,7 @@
+/**
+ * This is an implementarion of a User class.
+ * It is used to represent a user in the system.
+ */
 public class Professor {
     private String name;
     private int experience;
