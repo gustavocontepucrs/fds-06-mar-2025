@@ -1,3 +1,8 @@
+/**
+ * This is an example of a class that represents a Professor.
+ * It includes attributes, a constructor, and methods to classify the professor
+ * based on their years of experience.
+ */
 public class Professor {
     private String name;
     private int experience;
